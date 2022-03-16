@@ -1,0 +1,76 @@
+{
+    "questions": [
+    {
+      "image": "https://media.giphy.com/media/UJS4fUKBaTc8o/giphy.gif",
+      "title": "Com quantos anos um aluno de Hogwarts recebe a carta convite?",
+      "description": "Lembra daquelas várias cartas chegando para o Harry?",
+      "answer": 0,
+      "alternatives": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/6CovzgyTig7M4/giphy.gif",
+      "title": "Qual o núcleo da varinha do Harry Potter?",
+      "description": "Elemento poderoso!",
+      "answer": 2,
+      "alternatives": [
+        "Pelo da Cauda de um Testrálio",
+        "Fibra de Coração de Dragão",
+        "Pena de Fênix",
+        "Pelo de Unicórnio"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/6HAvZnZJXpOG4/giphy.gif",
+      "title": "Quantas horcruxes Voldemort criou?",
+      "description": "Polêmico...",
+      "answer": 2,
+      "alternatives": [
+        "9",
+        "8",
+        "7",
+        "6"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/17JedU1gYFReg/giphy.gif",
+      "title": "Qual das opções abaixo não é uma relíquia da morte?",
+      "description": "Perigoso ter tudo junto",
+      "answer": 1,
+      "alternatives": [
+        "Varinha das Varinhas",
+        "Espada de Griffyndor",
+        "Capa da Invisibilidade",
+        "Pedra da Ressureição"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/NtaCnMMzZPdJe/giphy.gif",
+      "title": "Como era chamada a organização secreta fundada por Alvo Dumbledore no intuito de se opor a Lorde Voldemort?",
+      "description": "Ousado!",
+      "answer": 3,
+      "alternatives": [
+        "Os Marotos",
+        "Armada de Dumbledore",
+        "Instituto Durmstrang",
+        "Ordem da Fênix"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/G0NqqnxBXFmWk/giphy.gif",
+      "title": "Como se chamam os fiéis seguidores de Lorde Voldemort?",
+      "description": "A galerinha do mal",
+      "answer": 0,
+      "alternatives": [
+        "Comensais da Morte",
+        "Os Transfigurados",
+        "Puros Sangue",
+        "Seguidores daquele-que-não-deve-ser-nomeado"
+      ]
+    }
+  ]
+}
